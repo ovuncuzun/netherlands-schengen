@@ -1,6 +1,5 @@
 "use strict";
 
-var cars = [];
 var axios = require("axios");
 var cheerio = require("cheerio");
 var async_core = require("async");
